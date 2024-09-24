@@ -1,14 +1,1 @@
-# Archivo _config.yml
-title: Tema
-description: Repositorio de prueba
-theme: jekyll-theme-hacker  # Cambia el tema aquí
-github_username: BlackDragon155
-repository: ElDani
-
-# Configuraciones adicionales
-markdown: kramdown
-permalink: pretty
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
+theme: jekyll-theme-hacker 
