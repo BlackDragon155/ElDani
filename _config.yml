@@ -1,0 +1,10 @@
+# Archivo _config.yml
+title: "ElDani"
+description: "Repositorio de prueba"
+theme: "jekyll-theme-hacker"  # Cambia el tema aquí
+github_username: "BlackDragon155"
+repository: "ElDani"
+
+# Configuraciones adicionales
+markdown: kramdown
+permalink: pretty
