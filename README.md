@@ -1,6 +1,6 @@
 # ElDani
 Repositorio que me pide el profe
-#A Continuación, una muestrita:
+# A Continuación, una muestrita:
 # Introducción a Markdown - Daniel y José Luis
 ## Actividad de Investigación
 
