@@ -1,7 +1,7 @@
 # ElDani
 Repositorio que me pide el profe
 # A Continuación, una muestrita:
-# Introducción a Markdown - Daniel y José Luis
+## Introducción a Markdown - Daniel y José Luis
 ## Actividad de Investigación
 
 ### **1. ¿Qué es Markdown y para qué se utiliza?**
