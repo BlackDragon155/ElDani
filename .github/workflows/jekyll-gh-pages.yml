@@ -7,7 +7,7 @@ name: Desplegar Jekyll en GitHub Pages
 on:
   push:
     branches:
-      - "Inicio"  # Cambia 'main' por tu rama preferida, por ejemplo, 'Inicio'
+      - Inicio  # Cambia 'main' por tu rama preferida, por ejemplo, 'Inicio'
   workflow_dispatch:
 
 # Configurar los permisos para permitir escribir en GitHub Pages
